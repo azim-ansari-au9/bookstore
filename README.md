@@ -1,4 +1,4 @@
 # bookstore
 bookstore ecommerce web app
 
-This is only the backend And some part of front end.
+This is only the backend part developed
